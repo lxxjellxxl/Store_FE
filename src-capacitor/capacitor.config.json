@@ -1,0 +1,8 @@
+{
+  "appId": "com.store.www",
+  "appName": "Store App",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
